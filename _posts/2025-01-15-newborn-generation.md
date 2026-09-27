@@ -69,14 +69,14 @@ At first, experiment with vanilla Stable Diffusion 1.5 baseline and Realistic Vi
 
   <div style="flex: 1;">
     <img src="/assets/img/newborn-generation/sd.png"
-         style="width: 100%;">
-    <p><em>(a) Stable Diffusion 1.5 result</em></p>
+     alt="Stable Diffusion 1.5 generation result"
+     style="width: 100%;">
   </div>
 
   <div style="flex: 1;">
     <img src="/assets/img/newborn-generation/rv.png"
-         style="width: 100%;">
-    <p><em>(b) Realistic Vision 5.1 result</em></p>
+     alt="Realistic Vision 5.1 generation result"
+     style="width: 100%;">
   </div>
 
 </div>
