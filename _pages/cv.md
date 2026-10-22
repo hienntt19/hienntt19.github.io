@@ -26,8 +26,6 @@ My primary interests are **Computer Vision, Generative AI, and ML Engineering**,
 - **ML Frameworks & Libraries:** PyTorch, OpenCV, NumPy, Pandas
 - **Programming & Backend:** Python, SQL, FastAPI, Git, Linux
 - **Cloud & MLOps:** GCP (GKE, Cloud Storage, Cloud SQL), Docker, Kubernetes, Helm, Terraform, Jenkins, RabbitMQ
-- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, Jaeger
-
 
 ## Professional Experience
 
@@ -57,7 +55,7 @@ Worked with analytical databases and SQL-based data processing to support busine
 **Technical University of Darmstadt, Germany**  
 *Apr 2026 – Present*
 
-Areas of study: Deep Learning: Architecture and Method, Statistical Machine Learning, Multimodal AI.
+Courseworks: Deep Learning: Architecture and Method, Statistical Machine Learning, Multimodal AI.
 
 ### B.Sc. Computer Science (Honors)
 **Vietnam National University – University of Engineering and Technology, Vietnam**  
